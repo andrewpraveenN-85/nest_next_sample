@@ -19,5 +19,5 @@ A full-stack product management system with NestJS backend, Next.js frontend, an
 
 1. Clone the repository:
 ```bash
-git clone [[your-repository-url]](https://github.com/andrewpraveenN-85/nest_next_sample.git)
+git clone https://github.com/andrewpraveenN-85/nest_next_sample.git
 cd nest_next_sample
